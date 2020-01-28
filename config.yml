@@ -6,11 +6,11 @@ id: alfred-kibela-workflow
 # base domain
 domain: com.kakunpc
 
-name: kibela Workflow
-description: Alfredでkibelaを検索できますßßß
+name: kibela
+description: Alfredでkibelaを検索できます
 created_by: kakunpc
 website: https://github.com/kakunpc
-readme: readme
+readme: kibela setup で設定が必要です。
 
 ## development config
 
