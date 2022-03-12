@@ -3,3 +3,4 @@ source "https://rubygems.org"
 gem "plist"
 gem "alfred-workflow"
 gem 'rest-client'
+gem 'sorted_set'
